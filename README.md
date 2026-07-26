@@ -1,14 +1,15 @@
 # Hi there, I'm Okky! 👋
 
 > **Python Developer | Financial Automation & AI Vision**  
-> *Building SSM Professional — Forensic Audit & Reconciliation Engine*
+> *Creator of ForenSync® — AI-Assisted Financial Evidence Matching & Audit Platform*
 
 ---
 
 ### 👨‍💻 About Me
-* 🔭 **Current Focus:** Developing enterprise-grade financial reconciliation & audit automation software.
-* 🧠 **Specialties:** Python, PyQt5 Desktop Applications, Data Analytics, OCR/PDF Parsing, & Prompt Engineering.
-* ⚙️ **Key Project:** **SSM Professional** — An automated financial statement reconciliation tool powered by a 3-Tier PDF Vision Engine (Table/Text/OCR) and multi-strategy matching algorithms.
+
+* 🎯 **Current Focus:** Developing enterprise-grade financial reconciliation & forensic audit automation software.
+* 🧠 **Specialties:** Python, PyQt5 Desktop Applications, Financial Data Analytics, OCR/PDF Vision Parsing, & Prompt Engineering.
+* ⚙️ **Key Project:** **ForenSync®** — An automated financial evidence matching tool powered by SSM Engine v7.8 (3-Tier PDF Vision, Dynamic Header Excel Parsing, & Exact/Semantic Search).
 * ⚡ **Workflow:** Clean Architecture, Separation of Concerns, & Test-Driven Engine Optimization.
 
 ---
@@ -22,19 +23,12 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Data & AI Vision:**  
-![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-5C2D91?style=for-the-badge&logo=google&logoColor=white)
+![Tesseract](https://img.shields.io/badge/Tesseract_OCR-5C2D91?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheRiz888&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRiz888&layout=compact&theme=dark&hide_border=true" height="150" alt="languages" />
-</p>
+### 📬 Get in Touch
 
----
-
-📫 **Get in Touch:**
-* Open for freelance opportunities, remote projects, and collaboration in automation & software development.
+* Open for B2B software licensing, freelance opportunities, remote projects, and custom automation development.
